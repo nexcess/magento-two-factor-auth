@@ -1,8 +1,8 @@
 #!/usr/bin/env python2.7
 # -*- coding: utf-8 -*-
 
-# Nexcess.net Turpentine Extension for Magento
-# Copyright (C) 2012  Nexcess.net L.L.C.
+# Nexcess.net TwoFactorAuth Extension for Magento
+# Copyright (C) 2014  Nexcess.net L.L.C.
 
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

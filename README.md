@@ -31,4 +31,4 @@ TODO: make FAQ page
 
 ## License
 
-This extension is licensed under GPLv2+, and uses code from a Magento [hackathon project]() that is also licensed under the GPL.
+This extension is licensed under GPLv2+, and uses code from a Magento [hackathon project](https://github.com/magento-hackathon/Magento-Two-factor-Authentication) that is also licensed under the GPL.

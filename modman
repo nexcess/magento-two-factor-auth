@@ -1,0 +1,4 @@
+## Nexcess.net Two Factor Authentication Extension
+
+app/etc/modules/Nexcessnet_Twofactorauth.xml    app/etc/modules/Nexcessnet_Twofactorauth.xml
+app/code/community/Nexcessnet/Twofactorauth/    app/code/community/Nexcessnet/Twofactorauth/

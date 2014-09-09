@@ -1,0 +1,16 @@
+{
+    "name": "nexcess/magento-two-factor-auth",
+    "type": "magento-module",
+    "license": "GPLv2+",
+    "description": "A two factor authentication extension for Magento.",
+    "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+    "authors": [
+        {
+            "name": "Alex Headley",
+            "email": "aheadley@nexcess.net"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
